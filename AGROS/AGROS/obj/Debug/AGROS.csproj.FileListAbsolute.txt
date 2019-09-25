@@ -1,0 +1,11 @@
+C:\Users\UI496526\source\repos\AGROS\AGROS\bin\Debug\AGROS.exe.config
+C:\Users\UI496526\source\repos\AGROS\AGROS\bin\Debug\AGROS.exe
+C:\Users\UI496526\source\repos\AGROS\AGROS\bin\Debug\AGROS.pdb
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.csprojAssemblyReference.cache
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.Form1.resources
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.Properties.Resources.resources
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.csproj.GenerateResource.cache
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.csproj.CoreCompileInputs.cache
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.exe
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.pdb
+C:\Users\UI496526\source\repos\AGROS\AGROS\obj\Debug\AGROS.AGROS_MAIN.resources
